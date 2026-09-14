@@ -23,6 +23,8 @@ My engineering focus spans **React, TypeScript, Node.js, API design, distributed
 | [`data-analysis-portfolio`](https://github.com/vinujoseph25/data-analysis-portfolio) | Data analysis and machine learning projects with Python |
 | [`software-engineering-portfolio`](https://github.com/vinujoseph25/software-engineering-portfolio) | Curated full-stack, frontend and mobile engineering work |
 | [`property-inspection-app`](https://github.com/vinujoseph25/property-inspection-app) | React Native mobile workflow and state-management example |
+| [`inclue-website`](https://github.com/vinujoseph25/inclue-website) | Product engineering case study — React/TypeScript web platform for a multi-domain technology business |
+| [`smartgenics`](https://github.com/vinujoseph25/smartgenics) | Product engineering case study — industrial IoT and automation product experience |
 
 ### Technology
 
